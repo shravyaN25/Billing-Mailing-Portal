@@ -20,7 +20,7 @@ Prior to this application, the colony administration faced significant challenge
 
 This application solves these real-world problems by providing a centralized system for resident management, automated bill generation, and digital distribution, significantly reducing administrative overhead while improving collection rates and financial transparency.
 
-## ⭐Features
+## ⭐ Features
 
 ### Authentication & Security
 
@@ -60,7 +60,7 @@ This application solves these real-world problems by providing a centralized sys
 
 
 
-## Tech Stack
+## 👩‍💻 Tech Stack
 
 - *Frontend*: React, Next.js, TypeScript, Tailwind CSS
 - *Backend*: Next.js API Routes, Server Components, Server Actions
@@ -116,7 +116,7 @@ This application solves these real-world problems by providing a centralized sys
 - Bill preview functionality
 - Search capability for finding specific bills
 
-## Screenshots 
+## 🔳 Screenshots 
 
 ![Image](https://github.com/user-attachments/assets/c0d22971-1d24-4410-a159-e86fbf34dcbd)
 
