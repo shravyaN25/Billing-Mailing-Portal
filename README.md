@@ -126,6 +126,8 @@ This application solves these real-world problems by providing a centralized sys
 
 ![Image](https://github.com/user-attachments/assets/78805c4d-f2fb-42bc-bd08-b58d67a11093)
 
+![Image](https://github.com/user-attachments/assets/c47360a5-fd67-4625-96b4-083cad369b8c)
+
 ![Image](https://github.com/user-attachments/assets/e4fcd528-810a-4aa3-8b7d-76755b4db530)
 
 ![Image](https://github.com/user-attachments/assets/04870fe8-7aa0-4e36-b762-b4178829b3b8)
@@ -135,8 +137,6 @@ This application solves these real-world problems by providing a centralized sys
 ![Image](https://github.com/user-attachments/assets/5e68e877-4541-44b4-bc12-b8f743d91637)
 
 ![Image](https://github.com/user-attachments/assets/31be8c4f-fca0-4e67-acb9-4975caadc8bf)
-
-![Image](https://github.com/user-attachments/assets/c47360a5-fd67-4625-96b4-083cad369b8c)
 
 ![Image](https://github.com/user-attachments/assets/1d22aae2-b128-402b-803c-632214e3ffd0)
 
