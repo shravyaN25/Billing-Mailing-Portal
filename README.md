@@ -116,7 +116,7 @@ This application solves these real-world problems by providing a centralized sys
 - Bill preview functionality
 - Search capability for finding specific bills
 
-
+## Screenshots 
 
 
 
