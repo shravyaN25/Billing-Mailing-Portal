@@ -118,7 +118,7 @@ This application solves these real-world problems by providing a centralized sys
 
 ## Screenshots 
 
-![Image](https://github.com/user-attachments/assets/9744aa0f-880d-4f6a-83e0-068f56efcd94)
+
 
 
 
