@@ -20,7 +20,7 @@ Prior to this application, the colony administration faced significant challenge
 
 This application solves these real-world problems by providing a centralized system for resident management, automated bill generation, and digital distribution, significantly reducing administrative overhead while improving collection rates and financial transparency.
 
-## ⭐ Features
+## ⭐Features
 
 ### Authentication & Security
 
