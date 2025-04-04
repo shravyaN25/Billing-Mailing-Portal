@@ -58,11 +58,6 @@ This application solves these real-world problems by providing a centralized sys
 - Generate reports on collection rates and outstanding payments
 
 
-### Analytics Dashboard
-
-- Visual representation of key metrics including collection rates and outstanding amounts
-- Monthly and yearly collection trends
-- Resident payment statistics
 
 
 ## Tech Stack
