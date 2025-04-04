@@ -136,7 +136,7 @@ This application solves these real-world problems by providing a centralized sys
 
 ![Image](https://github.com/user-attachments/assets/5e68e877-4541-44b4-bc12-b8f743d91637)
 
-![Image](https://github.com/user-attachments/assets/31be8c4f-fca0-4e67-acb9-4975caadc8bf)
+![Image](https://github.com/user-attachments/assets/ff9363bc-e20a-4e8b-ad99-76fcad7bc125)
 
 ![Image](https://github.com/user-attachments/assets/1d22aae2-b128-402b-803c-632214e3ffd0)
 
