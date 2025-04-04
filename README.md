@@ -117,43 +117,6 @@ This application solves these real-world problems by providing a centralized sys
 - Search capability for finding specific bills
 
 
-## Installation and Setup
-
-1. Clone the repository (access restricted to authorized personnel)
-2. Install dependencies:
-
-plaintext
-npm install
-
-
-
-3. Set up environment variables in .env.local:
-
-plaintext
-ADMIN_USERNAME=your_username
-ADMIN_PASSWORD=your_password
-MONGODB_URI=your_mongodb_connection_string
-EMAIL_HOST=your_email_host
-EMAIL_PORT=your_email_port
-EMAIL_USER=your_email_username
-EMAIL_PASSWORD=your_email_password
-EMAIL_FROM=your_sender_email
-
-
-
-4. Run the development server:
-
-plaintext
-npm run dev
-
-
-
-5. Build for production:
-
-plaintext
-npm run build
-
-
 
 
 
