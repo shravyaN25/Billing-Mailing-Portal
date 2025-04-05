@@ -72,7 +72,7 @@ This application solves these real-world problems by providing a centralized sys
 - *Deployment*: Vercel
 
 
-## Application Structure
+## 🌟 Application Structure
 
 ### Admin Login
 
@@ -141,18 +141,6 @@ This application solves these real-world problems by providing a centralized sys
 ![Image](https://github.com/user-attachments/assets/1d22aae2-b128-402b-803c-632214e3ffd0)
 
 
-
-
-## Security Considerations
-
-This application handles sensitive resident information and financial data. Several security measures have been implemented:
-
-- Server-side authentication validation
-- Protected API routes with middleware checks
-- Secure cookie handling with proper attributes (SameSite, HttpOnly)
-- Environment variable-based credential management
-- Input validation and sanitization
-- MongoDB security best practices
 
 
 ## Impact and Results
