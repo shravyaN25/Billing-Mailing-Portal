@@ -20,7 +20,7 @@ Prior to this application, the colony administration faced significant challenge
 
 This application solves these real-world problems by providing a centralized system for resident management, automated bill generation, and digital distribution, significantly reducing administrative overhead while improving collection rates and financial transparency.
 
-## ⭐ Features
+## 🌟 Features
 
 ### 🔒 Authentication & Security
 
@@ -74,7 +74,7 @@ This application solves these real-world problems by providing a centralized sys
 
 ## 🌟 Application Structure
 
-###  Admin Login
+### 👩‍💻 Admin Login
 
 - Secure authentication form with username/password validation
 - Environment variable-based credential management for enhanced security
@@ -82,7 +82,7 @@ This application solves these real-world problems by providing a centralized sys
 - Redirect to dashboard upon successful authentication
 
 
-### Dashboard Layout
+### 🔳 Dashboard Layout
 
 - Responsive design that works on desktop and mobile devices
 - Navigation between different sections (Residents, Generate Bills, Sent Bills)
