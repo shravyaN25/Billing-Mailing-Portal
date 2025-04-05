@@ -99,7 +99,7 @@ This application solves these real-world problems by providing a centralized sys
 - Confirmation dialogs for destructive actions
 
 
-#### Generate Bills Panel
+#### 📂 Generate Bills Panel
 
 - Month and year selection for bill generation
 - Default amount setting with individual overrides
@@ -154,7 +154,7 @@ Since implementation, this application has:
 - Provided better tracking and reporting of maintenance fee collection
 
 
-## Future Improvements
+## 🚀 Future Improvements
 
 While the current version successfully addresses the core problems, future enhancements could include:
 
