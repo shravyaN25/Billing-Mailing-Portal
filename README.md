@@ -74,7 +74,7 @@ This application solves these real-world problems by providing a centralized sys
 
 ## 🌟 Application Structure
 
-### Admin Login
+###  Admin Login
 
 - Secure authentication form with username/password validation
 - Environment variable-based credential management for enhanced security
@@ -143,7 +143,7 @@ This application solves these real-world problems by providing a centralized sys
 
 
 
-## Impact and Results
+## 🖥️ Impact and Results
 
 Since implementation, this application has:
 
