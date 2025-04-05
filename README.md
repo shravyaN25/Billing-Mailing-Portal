@@ -22,21 +22,21 @@ This application solves these real-world problems by providing a centralized sys
 
 ## ⭐ Features
 
-### Authentication & Security
+### 🔒 Authentication & Security
 
 - Secure admin login with environment variable-based credential management
 - Multi-layered security with server-side validation, middleware protection, and secure cookie handling
 - Protection against unauthorized access to sensitive resident and financial data
 
 
-### Resident Management
+### 👫 Resident Management
 
 - Add, edit, and remove resident information
 - Store essential details including name, flat number, email, and contact information
 - Search and filter capabilities for quick access to resident records
 
 
-### Automated Billing
+### 📃 Automated Billing
 
 - Generate monthly maintenance bills for all residents with a single click
 - Customize bill amounts for individual residents when needed
@@ -44,14 +44,14 @@ This application solves these real-world problems by providing a centralized sys
 - Bulk generation option for efficient processing
 
 
-### Email Notifications
+### 📧 Email Notifications
 
 - Automatically send professional-looking bills directly to residents' email addresses
 - Email delivery status tracking to ensure bills reach recipients
 - Customizable email templates with colony branding
 
 
-### Payment Tracking
+### 💰 Payment Tracking
 
 - Mark bills as "Paid" or "Pending" to track payment status
 - Filter and view payment history by month, year, or resident
@@ -91,7 +91,7 @@ This application solves these real-world problems by providing a centralized sys
 
 ### Dashboard Components
 
-#### Residents Panel
+#### 📂 Residents Panel
 
 - Complete CRUD operations for resident management
 - Form validation for resident information
@@ -108,7 +108,7 @@ This application solves these real-world problems by providing a centralized sys
 - Bulk generation with email delivery
 
 
-#### Sent Bills Panel
+#### 📂 Sent Bills Panel
 
 - Comprehensive view of all sent bills
 - Filtering by month, year, and payment status
