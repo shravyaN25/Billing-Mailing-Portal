@@ -128,6 +128,8 @@ This application solves these real-world problems by providing a centralized sys
 
 ![Image](https://github.com/user-attachments/assets/c47360a5-fd67-4625-96b4-083cad369b8c)
 
+![Image](https://github.com/user-attachments/assets/d972a84d-2efe-41e8-8368-75f5005e53b7)
+
 ![Image](https://github.com/user-attachments/assets/e4fcd528-810a-4aa3-8b7d-76755b4db530)
 
 ![Image](https://github.com/user-attachments/assets/04870fe8-7aa0-4e36-b762-b4178829b3b8)
