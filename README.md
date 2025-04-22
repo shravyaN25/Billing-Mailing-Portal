@@ -142,7 +142,7 @@ This application solves these real-world problems by providing a centralized sys
 
 ![Image](https://github.com/user-attachments/assets/1d22aae2-b128-402b-803c-632214e3ffd0)
 
-When trying to access unauthorised routes:
+## When trying to access unauthorised routes:
 ![Image](https://github.com/user-attachments/assets/851598e4-b001-46c3-b713-fb549c31f5a4)
 
 
