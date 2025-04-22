@@ -2,7 +2,7 @@
 
 ## 🏡 About
 
-The Annapurna Badavane Association Billing Portal is a full-stack web application designed to automate and streamline the monthly maintenance fee collection process for the Annapurna Badavane residential colony. This application replaces the traditional manual bill writing and distribution system with a modern, efficient digital solution.
+The Annapurna Badavane Association Billing Portal is a full-stack Progressive web application (PWA) designed to automate and streamline the monthly maintenance fee collection process for the Annapurna Badavane residential colony. This application replaces the traditional manual bill writing and distribution system with a modern, efficient digital solution.
 
 > *Note:* Since this codebase contains sensitive information about residents of Annapurna Badavane colony, the repository and deployment link are private and only accessible to authorized administrators.
 
