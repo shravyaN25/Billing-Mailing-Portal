@@ -130,7 +130,7 @@ This application solves these real-world problems by providing a centralized sys
 ## Generate bills panel
 ![Image](https://github.com/user-attachments/assets/78805c4d-f2fb-42bc-bd08-b58d67a11093)
 
-## Generated bills Preview
+## Bill preview
 ![Image](https://github.com/user-attachments/assets/c47360a5-fd67-4625-96b4-083cad369b8c)
 
 ![Image](https://github.com/user-attachments/assets/d972a84d-2efe-41e8-8368-75f5005e53b7)
@@ -147,7 +147,7 @@ This application solves these real-world problems by providing a centralized sys
 
 ![Image](https://github.com/user-attachments/assets/1d22aae2-b128-402b-803c-632214e3ffd0)
 
-## When trying to access unauthorised routes:
+## Unauthorized Access Protection
 ![Image](https://github.com/user-attachments/assets/851598e4-b001-46c3-b713-fb549c31f5a4)
 
 
