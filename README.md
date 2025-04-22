@@ -116,10 +116,12 @@ This application solves these real-world problems by providing a centralized sys
 - Bill preview functionality
 - Search capability for finding specific bills
 
-## 🔳 Screenshots 
+## 🔳 Screenshots
 
+## Admin Login Page
 ![Image](https://github.com/user-attachments/assets/c0d22971-1d24-4410-a159-e86fbf34dcbd)
 
+## Dashboard
 ![Image](https://github.com/user-attachments/assets/ecc49dca-df6c-4aec-a20b-a0b84b86f4c5)
 
 ![Image](https://github.com/user-attachments/assets/6316f6c5-6267-4c45-b787-bffe8265e7fd)
