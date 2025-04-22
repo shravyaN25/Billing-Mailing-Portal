@@ -121,13 +121,16 @@ This application solves these real-world problems by providing a centralized sys
 ## Admin Login Page
 ![Image](https://github.com/user-attachments/assets/c0d22971-1d24-4410-a159-e86fbf34dcbd)
 
-## Dashboard
+## Admin Dashboard 
 ![Image](https://github.com/user-attachments/assets/ecc49dca-df6c-4aec-a20b-a0b84b86f4c5)
 
+## Residents Panel
 ![Image](https://github.com/user-attachments/assets/6316f6c5-6267-4c45-b787-bffe8265e7fd)
 
+## Generate bills panel
 ![Image](https://github.com/user-attachments/assets/78805c4d-f2fb-42bc-bd08-b58d67a11093)
 
+## Generated bills Preview
 ![Image](https://github.com/user-attachments/assets/c47360a5-fd67-4625-96b4-083cad369b8c)
 
 ![Image](https://github.com/user-attachments/assets/d972a84d-2efe-41e8-8368-75f5005e53b7)
